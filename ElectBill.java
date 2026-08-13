@@ -68,3 +68,33 @@ class Consumer {
         System.out.println("\tTotal Bill = Rs. " + tbill);
     }
 }
+
+OUTPUT:
+
+	Enter consumer number: 256
+
+	Enter consumer name: poovi
+
+	Enter the type of connection (Domestic/Commercial): domestic
+
+	Enter previous month reading: 150
+
+	Enter current month reading: 800
+
+	Consumer Name = poovi
+	Units Consumed = 650.0
+	Total Bill = Rs. 3900.0
+
+	Enter consumer number: 103
+
+	Enter consumer name: Pooja
+
+	Enter the type of connection (Domestic/Commercial): commercial
+
+	Enter previous month reading: 1005
+
+	Enter current month reading: 1300
+
+	Consumer Name = Pooja
+	Units Consumed = 295.0
+	Total Bill = Rs. 1770.0
