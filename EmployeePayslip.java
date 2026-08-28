@@ -219,3 +219,33 @@ public class EmployeePayslip
         in.close();
     }
 }
+
+
+OUTPUT:
+Enter Name of Employee:
+Bhavan
+Enter ID of Employee:
+098
+Enter Address of Employee:
+Villupuram
+Enter Mail ID of Employee:
+bhavanpk06@gmail.com
+Enter Mobile Number of Employee:
+9078657688
+Enter the Basic Pay:
+15000
+Select the Designation:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Exit
+1
+Name of The Employee: Bhavan *****PAYSLIP*****
+Employee Name: Bhavan
+Employee ID: 98
+Address: Villupuram
+Mail ID: bhavanpk06@gmail.com
+Mobile Number: 9078657688
+Gross Salary = 32865.0
+Net Salary = 31050.0
