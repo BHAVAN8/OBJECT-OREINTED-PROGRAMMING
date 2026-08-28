@@ -92,3 +92,22 @@ System.exit(0);
 while(ch<5);
 }
 }
+
+OUTPUT:
+Implementation of stack using Array
+1.Push 2.Pop 3.Display 4.Exit
+Enter Your choice:
+1
+Enter the element
+10
+1.Push 2.Pop 3.Display 4.Exit
+Enter Your choice:
+2
+Popped element:10
+1.Push 2.Pop 3.Display 4.Exit
+Enter Your choice:
+3 
+Stack is empty
+1.Push 2.Pop 3.Display 4.Exit
+Enter Your choice:
+4
